@@ -10,7 +10,7 @@ Nome, matrícula, e-mail, curso, data de nascimento e telefone.
 
 ## Como rodar
 1. `npm install`
-2. Ajuste p `.env` com a `DATABASE_URL`
+2. Ajuste o `.env` com a `DATABASE_URL`
 3. `npx prisma migrate dev`
 4. `npm run dev`
 5. Acesse http://localhost:3000
